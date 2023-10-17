@@ -219,7 +219,7 @@ test.py
 # faiss
 *.faiss
 eva_db/*
-*.txt
+# *.txt
 
 # older code
 eva/*

@@ -1,0 +1,3 @@
+evadb[vision]
+google-cloud-vision
+google-cloud-api-keys
