@@ -15,7 +15,16 @@ Ensure that the local Python version is >= 3.8. Install the required libraries:
 pip install -r requirements.txt
 ```
 
-## Try it in Jupyter Notebook
+## Run the Example
+
+Open `gcloud_obj_detect_example.py`, fill in the Google Cloud API key and project ID, and then run it:
+```bash
+python gcloud_obj_detect_example.py
+```
+
+The annotated images will be saved in the same directory with `annotated` suffixes.
+
+## Or Try it in Jupyter Notebook
 
 Install and start the Jupyter Lab:
 ```bash
